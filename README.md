@@ -1,6 +1,6 @@
 It's me, Kartik, a 20 year old tinkerer geek, who went to Fergusson College for High School, currently at Dr.DY Patil Instutute of Technology in first year pursuing Bachelors Degree for Mechanical Engineering.
 
-Previously had RMX2050, currently playing with POCO X5 Pro 5G(redwood), POCO X2 (phoenix), Miatoll, Taoyay and Samsung A21s. Built some good ROMs for these bricks.
+Previously had RMX2050, currently playing with POCO X5 Pro 5G(redwood), POCO X2 (phoenix), Miatoll and Samsung A21s. Built some good ROMs for these bricks.
 
 E-mail me or drop a message on Telegram for query and if have any issues,and don't forget to connect with me on LinkedIn.
 

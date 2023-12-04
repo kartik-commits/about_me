@@ -1,8 +1,18 @@
-It's me, Kartik, a 20 year old tinkerer geek, who went to Fergusson College for High School, currently at Dr.DY Patil Instutute of Technology in second year pursuing Bachelors Degree for Mechanical Engineering.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&width=600&height=60&lines=Hey+There!%2C+%F0%9F%91%8B;Nice+to+meet+you....%F0%9F%98%87;I+am+Kartik%2C%F0%9F%97%BF;From+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</a>
+</h1>
 
-Previously had RMX2050, currently playing with POCO X5 Pro 5G(redwood), POCO X2 (phoenix), Miatoll and Samsung A21s. Built some good ROMs for these bricks.
+It's me, Kartik, a 20 year old tinkerer geek, who went to Fergusson College for Highschool, currently doing studying at Dr. DY Patil Instutute of Technology in second year pursuing Bachelors Degree for Mechanical Engineering.
 
-E-mail me or drop a message on Telegram for query and if have any issues,and don't forget to connect with me on LinkedIn.
+
+Worked on RMX2050 as an Android Developer, currently workings with POCO X5 Pro 5G (redwood), phoenix, Miatoll, Rock & fog
+
+Can play with C, C++, Java, Assembly Language, HTML (Not CSS unfortunately ^_^ ) and Visual Basics.
+
+Also, working on Solid Modeling and Mechanical Designing using Catia and OOCT primarily.
+
+
+E-mail me or drop a message on Telegram for query, if have any issues regarding my work and don't forget to connect with me on LinkedIn.
 
 <br>
 <a href="mailto:kartiklashkare@gmail.com" target="_blank">

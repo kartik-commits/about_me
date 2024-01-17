@@ -2,17 +2,17 @@
 </a>
 </h1>
 
-It's me, Kartik, a 20 year old tinkerer geek, who went to Fergusson College for Highschool, currently doing studying at Dr. DY Patil Instutute of Technology in second year pursuing Bachelors Degree for Mechanical Engineering.
+It's me, Kartik, a 20 year old tinkerer geek, who went to Fergusson College for Highschool, currently studying in Dr. DY Patil Instutute of Technology in second year pursuing Bachelors Degree for Mechanical Engineering.
 
 
 Worked on RMX2050 as an Android Developer, currently workings with POCO X5 Pro 5G (redwood), phoenix, Miatoll, Rock & fog
 
-Can play with C, C++, Java, Assembly Language, HTML (Not CSS unfortunately ^_^ ) and Visual Basics.
+Can play with C, C++, Java, Assembly Language, HTML (Not CSS unfortunately ^_^ ) and Visual Basics. Also learning Web Development.
 
 Also, working on Solid Modeling and Mechanical Designing using Catia and OOCT primarily.
 
 
-E-mail me or drop a message on Telegram for query, if have any issues regarding my work and don't forget to connect with me on LinkedIn.
+E-mail me or drop a message on Telegram for query or if have any issues regarding my lazywork and don't forget to connect with me on LinkedIn.
 
 <br>
 <a href="mailto:kartiklashkare@gmail.com" target="_blank">

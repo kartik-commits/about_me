@@ -2,7 +2,7 @@
 </a>
 </h1>
 
-It's me, Kartik, a 20 year old tinkerer geek, who went to Fergusson College for Highschool, currently studying in Dr. DY Patil Instutute of Technology in second year pursuing Bachelors Degree for Mechanical Engineering.
+Hey..!! It's me, Kartik, a 20 year old tinkerer geek, who went to Fergusson College for Highschool, currently studying in Dr. DY Patil Instutute of Technology in second year pursuing Bachelors Degree for Mechanical Engineering.
 
 
 Worked on RMX2050 as an Android Developer, currently workings with POCO X5 Pro 5G (redwood), phoenix, Miatoll, Rock & fog

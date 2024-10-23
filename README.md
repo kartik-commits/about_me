@@ -2,12 +2,12 @@
 </a>
 </h1>
 
-Hey..!! It's me, Kartik, a 21 year old tinkerer geek, who went to Fergusson College for Highschool, currently studying in Dr. DY Patil Institute of Technology in second year pursuing Bachelors Degree in Mechanical Engineering.
+Hey..!! It's me, Kartik, a 21 year old tinkerer geek, who went to Fergusson College for Highschool, currently studying in Dr. DY Patil Institute of Technology in third year pursuing Bachelors Degree in Mechanical Engineering.
 
 
 Worked on RMX2050 as an Android Developer, currently workings with POCO X5 Pro 5G (redwood), phoenix, Miatoll, Rock & fog
 
-Can play with C, C++, Java, Assembly Language, HTML (Not CSS unfortunately ^_^ ) and Visual Basics. I am also learning Web Development.
+Can play with C, C++, Java, Assembly Language and Visual Basics.
 
 Also, working on Solid Modeling and Mechanical Designing using Catia and OOCT primarily.
 
